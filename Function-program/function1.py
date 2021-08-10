@@ -49,7 +49,7 @@ temp = 45
 
 def print_temp():
     global temp
-    temp = 50
+   
     print(temp)
 
 def inc_temp():
